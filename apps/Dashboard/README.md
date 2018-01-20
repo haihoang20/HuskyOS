@@ -13,7 +13,7 @@ git clone git@github.com:cfoo/HuskyOS.git
 ```
 
 ```
-cd HuskyOS
+cd HuskyOS/apps/Dashboard
 ```
 
 ```

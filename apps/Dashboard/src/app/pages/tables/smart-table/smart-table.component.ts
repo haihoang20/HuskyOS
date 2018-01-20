@@ -34,24 +34,24 @@ export class SmartTableComponent {
         title: 'ID',
         type: 'number',
       },
-      firstName: {
-        title: 'First Name',
+      manufacturer: {
+        title: 'Manufacturer',
         type: 'string',
       },
-      lastName: {
-        title: 'Last Name',
+      model: {
+        title: 'Model',
         type: 'string',
       },
-      username: {
-        title: 'Username',
+      bios: {
+        title: 'Bios',
         type: 'string',
       },
-      email: {
-        title: 'E-mail',
+      cclock: {
+        title: 'CClock',
         type: 'string',
       },
-      age: {
-        title: 'Age',
+      mclock: {
+        title: 'MClock',
         type: 'number',
       },
     },
